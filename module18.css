@@ -1,0 +1,91 @@
+.skilldrive {
+	width:115px;
+	height:28px;
+	margin-left:40px;
+	margin-top:31px;
+	display:inline-block;
+	font-family: Rubik;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+     }
+     ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        
+        
+     }
+
+     li {
+        float: left;
+     }
+
+    li a {
+        
+        color: #1B1B1B;
+        
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	padding: 16px;
+    	text-decoration: none;
+    }
+    .btn {
+	display:inline-block;
+	float:right;
+	font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color: #1B1B1B;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin: 10px 0px;
+    }
+    .navbar-item {
+	font-family: Roboto;
+        font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 147.3%;
+	text-align: center;
+	color: #1B1B1B;
+    }
+    .contacts, .brigade, .we  {
+	text-align: center;
+     } 
+     .we-text {
+	position: relative;
+	width: 925px;
+	height: 105px;
+	left: 258px;
+	
+     }
+    .contacts {
+	background: #F7F9FB;
+    }
+    #email, #phone{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 147.3%;
+	text-align: center;
+	color: #4F4F4F;
+    }
+    .navbar-menu {
+	float:right;
+	display:inline-block;
+	margin-top:35px;
+     }
+    .navbar {float:left;}
+    footer {
+	background: #3F3D56;
+    }
+    #footer-social {margin-left:1000px;}
